@@ -75,9 +75,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:alpha="0.87"
-                android:gravity="center_vertical|center_horizontal"
-                android:padding="2dp"
-                android:textColor="@android:color/white"
+                android:gravity="top|center_horizontal"
+                android:textColor="#505050"
                 android:textSize="24sp"
                 android:textStyle="bold"
                 android:typeface="sans"
@@ -88,9 +87,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:gravity="center_vertical|center_horizontal"
+                android:gravity="top|center_horizontal"
                 android:text="TextView"
-                android:textSize="18sp"
+                android:textSize="14sp"
                 android:textStyle="normal|italic" />
 
         </LinearLayout>

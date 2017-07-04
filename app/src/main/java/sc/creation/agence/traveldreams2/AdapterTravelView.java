@@ -60,15 +60,15 @@ public class AdapterTravelView extends RecyclerView.Adapter<AdapterTravelView.Vi
     @Override
     public void onBindViewHolder(final ViewHolderTravel holder, int position) {
         final Travel currentposition = travels.get(position);
-        holder.titre.setText(currentposition.getTitle());
+        holder.titre.setText(currentposition.getType());
         holder.price.setText(currentposition.getPrice());
         holder.rest.setText(currentposition.getPays());
         final String urlphoto = currentposition.getUrl();
-        holder.type.setText(currentposition.getType());
+        holder.type.setText(currentposition.getTitle());
        final Context context = holder.imageView.getContext();
         setAnimation(holder.price,position);
 
-        int min = 2;
+        int min = 3;
         int max = 5;
 
         Random r = new Random();

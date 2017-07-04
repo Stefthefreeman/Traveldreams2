@@ -5,15 +5,15 @@
         <item
             android:id="@+id/nav_camera"
             android:icon="@drawable/airplane"
-            android:title="RECHERCHER UN VOL" />
+            android:title="TROUVER UN VOL" />
         <item
             android:id="@+id/nav_gallery"
             android:icon="@drawable/ic_new_releases_black_24dp"
             android:title="PROMOS" />
         <item
             android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="Slideshow" />
+            android:icon="?android:attr/actionModeWebSearchDrawable"
+            android:title="RECHERCHER" />
         <item
             android:id="@+id/nav_manage"
             android:icon="@drawable/ic_menu_manage"

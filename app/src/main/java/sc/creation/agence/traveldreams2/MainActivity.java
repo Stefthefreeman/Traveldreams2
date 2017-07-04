@@ -101,6 +101,9 @@ public class MainActivity extends AppCompatActivity
                     .commit();
 
         } else if (id == R.id.nav_slideshow) {
+            fragmentManager.beginTransaction()
+                    .replace(R.id.content_main, FormSearch.newInstance())
+                    .commit();
 
         } else if (id == R.id.nav_manage) {
 

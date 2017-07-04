@@ -16,16 +16,16 @@
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:paddingTop="@dimen/nav_header_vertical_spacing"
-        app:srcCompat="@drawable/palmtreemin" />
+        android:paddingTop="@dimen/nav_header_vertical_spacing" />
 
     <TextView
+        android:id="@+id/textView3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:paddingTop="@dimen/nav_header_vertical_spacing"
-        android:text="Recherchez vos vacances"
-        android:textAllCaps="true"
+        android:text="Recherchez vos vacances de rêve"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="@android:color/black"
         android:textSize="14sp"
         android:textStyle="bold" />
 
@@ -34,6 +34,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="en 1 minute!"
+        android:textColor="@android:color/black"
+        android:textSize="12sp"
         android:textStyle="bold" />
 
 </LinearLayout>

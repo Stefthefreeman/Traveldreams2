@@ -23,7 +23,7 @@
         android:id="@+id/country"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/colorAccent"
+        android:background="@color/colorPrimary"
         android:gravity="center_horizontal"
         android:padding="10dp"
         android:textColor="#505050"

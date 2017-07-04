@@ -131,7 +131,8 @@ public class Promos extends Fragment {
                 for (int i =0;i<jsonArray.length();i++) {
                     JSONObject jsonObject =jsonArray.getJSONObject(i);
                     Travel prom = new Travel();
-                    prom.title =new SpannableString(jsonObject.getString("titre").replace("&ocirc;","ô").replace("&eacute;","é")) ;
+                    prom.title =new SpannableString(jsonObject.getString("titre").replace("&ocirc;","ô").replace("&eacute;","é")
+                    .replace("&#xf;","ô")) ;
                     prom.name = jsonObject.getString("type");
                     prom.travelid = jsonObject.getString("id");
                     prom.pays = jsonObject.getString("pays");
