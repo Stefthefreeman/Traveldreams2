@@ -1,0 +1,7 @@
+#Tue Jul 04 15:00:31 CEST 2017
+base.0=C\:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_968ec2390042f7afca0b926d1709f5575a80f9b2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_053aac2aefab0ff54bf870e29b392ece6c2cbf6f\\classes.dex
+base.1=C\:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_053aac2aefab0ff54bf870e29b392ece6c2cbf6f
+file.0=C\:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_968ec2390042f7afca0b926d1709f5575a80f9b2\\classes.dex

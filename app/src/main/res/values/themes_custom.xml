@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="custom" parent="@style/_custom"/>
+
+  <style name="_custom" parent="Theme.AppCompat.Light">
+
+    <item name="android:editTextStyle">@style/EditTextcustom</item>
+
+    <item name="android:textColorHighlight">#99ffbb33</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewcustom</item>
+
+    <item name="android:checkboxStyle">@style/CheckBoxcustom</item>
+
+    <item name="android:radioButtonStyle">@style/RadioButtoncustom</item>
+
+    <item name="android:buttonStyle">@style/Buttoncustom</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtoncustom</item>
+
+    <item name="android:spinnerStyle">@style/Spinnercustom</item>
+
+    <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemcustom</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarcustom</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarcustom</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBarcustom</item>
+
+    <item name="android:ratingBarStyleIndicator">@style/RatingBarBigcustom</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallcustom</item>
+
+    <item name="android:buttonStyleToggle">@style/Togglecustom</item>
+
+    <item name="android:listViewStyle">@style/ListViewcustom</item>
+
+    <item name="android:listViewWhiteStyle">@style/ListViewcustom.White</item>
+
+    <item name="android:spinnerItemStyle">@style/SpinnerItemcustom</item>
+
+  </style>
+
+</resources>
