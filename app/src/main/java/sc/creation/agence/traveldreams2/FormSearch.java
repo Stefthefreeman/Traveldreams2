@@ -2,6 +2,7 @@ package sc.creation.agence.traveldreams2;
 
 import android.app.DatePickerDialog;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -11,8 +12,11 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.DatePicker;
 import android.widget.EditText;
+import android.widget.TextView;
 
+import java.text.SimpleDateFormat;
 import java.util.Calendar;
+import java.util.Locale;
 
 import static android.R.attr.startYear;
 
@@ -27,11 +31,12 @@ import static android.R.attr.startYear;
  */
 public class FormSearch extends Fragment {
 
-    private EditText dtdepart;
+    private TextView dtdepart;
     private DatePickerDialog datePickerDialog;
     Context context;
     private OnFragmentInteractionListener mListener;
-
+    private SimpleDateFormat dateFormatter;
+    Calendar myCalendar = Calendar.getInstance();
     public FormSearch() {
         // Required empty public constructor
     }
@@ -47,6 +52,7 @@ public class FormSearch extends Fragment {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        dateFormatter = new SimpleDateFormat("dd-MM-yyyy", Locale.FRANCE);
 
     }
 
@@ -55,7 +61,7 @@ public class FormSearch extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_form_search, null);
-       dtdepart = (EditText)view.findViewById(R.id.dtdepart);
+       dtdepart = (TextView) view.findViewById(R.id.dtdepart);
 
 
         dtdepart.setOnTouchListener(new View.OnTouchListener() {
@@ -94,26 +100,43 @@ public class FormSearch extends Fragment {
         // TODO: Update argument type and name
         void onFragmentInteraction(Uri uri);
     }
-    Calendar myCalendar = Calendar.getInstance();
 
-    public void showDatePickerDialog(){
 
-      datePickerDialog = new DatePickerDialog(getActivity(), date, myCalendar.get(Calendar.YEAR), myCalendar.get(Calendar.MONTH), myCalendar.get(Calendar.DAY_OF_MONTH));
-        datePickerDialog.show();
+    public void showDatePickerDialog() {
+
+       final  Calendar myCalendar = Calendar.getInstance();
+
+        DatePickerDialog.OnDateSetListener date = new DatePickerDialog.OnDateSetListener() {
+
+            @Override
+            public void onDateSet(DatePicker view, int year, int monthOfYear,
+                                  int dayOfMonth) {
+                // TODO Auto-generated method stub
+                myCalendar.set(Calendar.YEAR, year);
+                myCalendar.set(Calendar.MONTH, monthOfYear);
+                myCalendar.set(Calendar.DAY_OF_MONTH, dayOfMonth);
+                String myFormat = "dd/MM/yyyy"; //In which you need put here
+                SimpleDateFormat sdf = new SimpleDateFormat(myFormat, Locale.FRANCE);
+
+                dtdepart.setText(sdf.format(myCalendar.getTime()));
+            }
+
+        };
+        new DatePickerDialog(getActivity(), date, myCalendar
+                .get(Calendar.YEAR), myCalendar.get(Calendar.MONTH),
+                myCalendar.get(Calendar.DAY_OF_MONTH)).show();
+
     }
 
 
-    DatePickerDialog.OnDateSetListener date = new DatePickerDialog.OnDateSetListener() {
 
-        @Override
-        public void onDateSet(DatePicker view, int year, int monthOfYear, int dayOfMonth) {
-            myCalendar.set(Calendar.YEAR, year);
-            myCalendar.set(Calendar.MONTH, monthOfYear);
-            myCalendar.set(Calendar.DAY_OF_MONTH, dayOfMonth);
-           // updateYourLabel(); // or whatever you want
-            dtdepart.setText(dayOfMonth+"/"+monthOfYear+"/"+year);
-           datePickerDialog.dismiss();
-        }
+   /* private void updateLabel() {
 
-    };
+        String myFormat = "dd/MM/yy"; //In which you need put here
+        SimpleDateFormat sdf = new SimpleDateFormat(myFormat, Locale.FRANCE);
+
+        dtdepart.setText(sdf.format(myCalendar.getTime()));
+    }*/
+
+
 }
