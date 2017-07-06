@@ -1,4 +1,4 @@
-#Thu Jul 06 06:32:40 CEST 2017
-base.0=C\:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+#Thu Jul 06 13:31:08 CEST 2017
+base.0=C\:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
 renamed.0=classes.dex
-file.0=C\:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex
+file.0=C\:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex

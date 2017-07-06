@@ -1,110 +1,102 @@
 [
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\e6dd63fe5a727915fd11f707c6164ef029edb91b\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\color\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\4eb1af288b71ed528faa3b89843a94633b629942\\output\\res\\color\\design_tint_password_toggle.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\22dd685f71c11239adf6a80cfcc3326afc5cc239\\output\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\color\\abc_btn_colored_text_material.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\color\\abc_tint_btn_checkable.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\color\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\color\\abc_tint_default.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\color\\abc_secondary_text_material_light.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\5353110aaabd7970bf9f60c772d632b0aabc95f3\\output\\res\\color\\design_tint_password_toggle.xml"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\e6dd63fe5a727915fd11f707c6164ef029edb91b\\output\\res\\color\\common_google_signin_btn_tint.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\22dd685f71c11239adf6a80cfcc3326afc5cc239\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\color\\abc_tint_default.xml"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\color\\abc_tint_edittext.xml"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\color\\abc_tint_seek_thumb.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\22dd685f71c11239adf6a80cfcc3326afc5cc239\\output\\res\\color\\common_google_signin_btn_tint.xml"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\color\\abc_search_url_text.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\color\\switch_thumb_material_dark.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\e6dd63fe5a727915fd11f707c6164ef029edb91b\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\5353110aaabd7970bf9f60c772d632b0aabc95f3\\output\\res\\color\\design_error.xml"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\color\\abc_tint_switch_thumb.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\color\\abc_tint_switch_track.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\color\\abc_tint_spinner.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\color\\abc_tint_edittext.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\60a64c0dcbcc9d187b51027a9df1d09616126380\\output\\res\\color\\wallet_primary_text_holo_light.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\60a64c0dcbcc9d187b51027a9df1d09616126380\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\color\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\4eb1af288b71ed528faa3b89843a94633b629942\\output\\res\\color\\design_error.xml"
-    },
-    {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\color\\abc_tint_spinner.xml"
     }
 ]

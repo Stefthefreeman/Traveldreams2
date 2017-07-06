@@ -1,45 +1,56 @@
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:elevation="1dp"
     tools:context="sc.creation.agence.traveldreams2.FormSearch">
 
     <!-- TODO: Update blank fragment layout -->
 
     <LinearLayout
+        android:id="@+id/one"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical">
+        android:layout_margin="15dp"
+        android:background="@drawable/search_form_shape"
+        android:orientation="vertical"
+        android:padding="10dp">
 
-    <LinearLayout
-        android:id="@+id/dest"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal">
-
-        <TextView
-            android:id="@+id/textView4"
-            android:layout_width="250dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:gravity="right|center_vertical"
-            android:text="Destination :"
-            android:textSize="18sp"
-            android:textStyle="bold" />
-
-        <AutoCompleteTextView
-            android:id="@+id/autoCompleteTextView"
+        <LinearLayout
+            android:id="@+id/dest"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="AutoCompleteTextView" />
-    </LinearLayout>
+            android:layout_marginTop="15dp"
+            android:background="#CCDEDEDE"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView4"
+                style="@android:style/Widget.DeviceDefault.TextView"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_vertical|center"
+                android:text="Destination :"
+                android:textSize="18sp" />
+
+            <AutoCompleteTextView
+                android:id="@+id/autoCompleteTextView"
+                style="@style/AutoCompleteTextViewcustom"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="@android:integer/config_longAnimTime"
+                android:fadingEdge="horizontal"
+                android:fadingEdgeLength="5dp" />
+        </LinearLayout>
 
         <LinearLayout
             android:id="@+id/when"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="15dp"
+            android:layout_marginTop="20dp"
             android:orientation="horizontal">
 
             <LinearLayout
@@ -52,10 +63,9 @@
                     android:id="@+id/textView6"
                     android:layout_width="match_parent"
                     android:layout_height="34dp"
-                    android:gravity="center_horizontal"
+                    android:gravity="bottom"
                     android:text="Date départ "
-                    android:textSize="18sp"
-                    android:textStyle="bold" />
+                    android:textSize="14sp" />
 
                 <TextView
                     android:id="@+id/dtdepart"
@@ -73,28 +83,58 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
                 android:layout_weight="1"
                 android:orientation="vertical">
 
                 <TextView
                     android:id="@+id/textView5"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
+                    android:layout_height="34dp"
+
                     android:fontFamily="sans-serif"
-                    android:gravity="center_horizontal"
+                    android:gravity="bottom"
                     android:text="Type"
-                    android:textSize="18sp"
-                    android:textStyle="bold" />
+                    android:textSize="14sp" />
 
                 <Spinner
                     android:id="@+id/spinner"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1" />
+                    android:layout_weight="1.55"
+                    android:background="@drawable/shape" />
             </LinearLayout>
 
         </LinearLayout>
 
+        <LinearLayout
+            android:id="@+id/search"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="150dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/logotraveldreamsload" />
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@android:color/holo_orange_dark"
+                android:drawableEnd="@drawable/palmtreemin"
+                android:drawableLeft="@drawable/palmtreemin"
+                android:text="GO"
+                android:textColor="@android:color/white"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
     </LinearLayout>
+
 </FrameLayout>

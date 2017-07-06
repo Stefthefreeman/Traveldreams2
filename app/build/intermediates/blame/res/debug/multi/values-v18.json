@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+        "outputFile": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 99
                 },
                 "from": {
-                    "file": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\values-v18\\values-v18.xml",
+                    "file": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\values-v18\\values-v18.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
