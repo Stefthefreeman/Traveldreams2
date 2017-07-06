@@ -11,6 +11,7 @@ import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.util.LruCache;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.DividerItemDecoration;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.text.Html;
@@ -35,6 +36,7 @@ import com.android.volley.VolleyError;
 import com.android.volley.toolbox.ImageLoader;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
+import com.google.android.gms.ads.MobileAds;
 import com.squareup.picasso.Picasso;
 
 import org.json.JSONArray;
@@ -56,11 +58,9 @@ import static android.view.View.VISIBLE;
 public class Promos extends Fragment {
 
     private RecyclerView stream;
-    String pt;
-    ConnectivityManager cm;
-    ProgressBar progressBar;
-    FrameLayout frameLayout;
-    TextView loadermsg;
+    private ConnectivityManager cm;
+    private FrameLayout frameLayout;
+    private TextView loadermsg;
     private AdapterTravelView adapterTravelView;
 
 
@@ -89,7 +89,7 @@ public class Promos extends Fragment {
         ((AppCompatActivity)getActivity()).getSupportActionBar().setTitle("Recherche en cours...");
         cm = (ConnectivityManager)
                 getActivity().getSystemService(Context.CONNECTIVITY_SERVICE);
-
+        MobileAds.initialize(getActivity(), "ca-app-pub-8155783804263949");
        // progressBar = (ProgressBar)view.findViewById(R.id.progressBar);
         stream = (RecyclerView) view.findViewById(R.id.streamlist);
         frameLayout = (FrameLayout)view.findViewById(R.id.progressBarHolder);
@@ -100,8 +100,12 @@ public class Promos extends Fragment {
         adapterTravelView =new AdapterTravelView(getActivity());
         LinearLayoutManager llm = new LinearLayoutManager(getActivity());
         stream.setLayoutManager(llm);
+        //stream.addItemDecoration(new VerticalSpaceItemDecoration(VERTICAL_ITEM_SPACE));
+        stream.addItemDecoration( new DividerItemDecoration(getActivity(), DividerItemDecoration.VERTICAL));
+
         return view;
     }
+
     private void readStream()  {
         try {
 
@@ -139,6 +143,8 @@ public class Promos extends Fragment {
                     prom.price = jsonObject.getString("prix");
                     prom.url = jsonObject.getString("url");
                     prom.type = jsonObject.getString("type");
+                    prom.urltoshare ="http://www.traveldreams.fr/"+jsonObject.getString("urltoshare");
+                    prom.arrivee = jsonObject.getString("ville").replace("&ocirc;","ô").replace("&eacute;","é");
 
 
                     travel.add(prom);
@@ -180,149 +186,10 @@ public class Promos extends Fragment {
         return requestQueue;
     }
 
-    ImageLoader imageLoader;
-    ImageLoader getImageLoader()  {
-        if(imageLoader==null) {
-            ImageLoader.ImageCache imageCache = new ImageLoader.ImageCache() {
-                LruCache<String, Bitmap> cache = new LruCache<String, Bitmap>(10);
-                public void putBitmap(String url, Bitmap bitmap) {
-                    cache.put(url, bitmap);
-                }
-                public Bitmap getBitmap(String url) {
-                    return cache.get(url);
-                }
-            };
 
-            imageLoader = new ImageLoader(getRequestQueue(),imageCache);
-        }
-        return imageLoader;
-    }
-    class SearchListAdapter extends ArrayAdapter<Travel> {
 
-        Context context;
-        public SearchListAdapter(Context context,  List<Travel> omdbFilms) {
-            super(context, R.layout.adaptstream, omdbFilms);
-            this.context = context;
-        }
 
-        @Override
-        public View getView(int pos, View convertView, ViewGroup parent) {
-            View view=null;
-            if(convertView==null) {
-                LayoutInflater layoutInflater = (LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-                view = layoutInflater.inflate(R.layout.adaptstream,null);
-            } else {
-                view = convertView;
-            }
 
-            final Travel omdbFilm = getItem(pos);
-            frameLayout.setVisibility(GONE);
-            loadermsg.setVisibility(GONE);
-            view.setTag(omdbFilm);
-//            progressBar.setVisibility(GONE);
-            TextView titre =(TextView)view.findViewById(R.id.listItemOMdbFilm_title);
-            TextView annee =(TextView)view.findViewById(R.id.listItemOMdbFilm_year);
-            TextView pays =(TextView)view.findViewById(R.id.pays);
-            TextView theprice =(TextView)view.findViewById(R.id.textprice);
-            final Button detailButton =(Button)view.findViewById(R.id.button);
-            // final Button closeButton=(Button)view.findViewById(R.id.listItemOMdbFilm_closeDetail);
-            //   final RelativeLayout detailLayout = (RelativeLayout)view.findViewById(R.id.listItemOMdbFilm_detailLayout);
-            // final NetworkImageView detailPoster = (NetworkImageView)view.findViewById(R.id.picto_jlm);
-            //   final TextView detailPlot = (TextView)view.findViewById(R.id.listItemOMdbFilm_plot);
-
-            //   detailLayout.setVisibility(View.GONE);
-            detailButton.setVisibility(VISIBLE);
-
-            detailButton.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View v) {
-                    //seedetails(context,omdbFilm.idstream);
-                    Intent intent = new Intent(getActivity(),Showdetails.class);
-                    intent.putExtra("id",omdbFilm.idstream);
-                    startActivity(intent);
-                }
-            });
-           /* closeButton.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View v) {
-                    detailLayout.setVisibility(View.GONE);
-                    detailButton.setVisibility(View.VISIBLE);
-                }
-            });*/
-            titre.setText(omdbFilm.pays);
-            annee.setText(omdbFilm.name);
-            pays.setText(omdbFilm.title);
-            theprice.setText(omdbFilm.price);
-
-            return view;
-        }
-
-    }
-
-    public void seedetails(final Context context,String id){
-        String url ="http://www.traveldreams.fr/app/details.php?id="+id+"";
-        JsonObjectRequest jsonObjectRequest;
-        jsonObjectRequest = new JsonObjectRequest(Request.Method.GET, url, null,
-                new Response.Listener<JSONObject>() {
-                    @Override
-                    public void onResponse(JSONObject response) {
-                        try {
-
-                            final Dialog dialog = new Dialog(context,R.style.AlertDialogCustom);
-                            LayoutInflater inflater = (LayoutInflater) getActivity().getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-                            View view1= inflater.inflate(R.layout.customdialoog,null);
-
-                            dialog.setContentView(view1);
-                            final ImageView networkImageView = (ImageView) view1.findViewById(R.id.picto_dialog);
-                            final TextView text = (TextView) view1.findViewById(R.id.text);
-                            final Button dialogButtonOK =(Button) view1.findViewById(R.id.dialogButtonOK);
-                            final TextView alerttitlte = (TextView) view1.findViewById(R.id.TextView_title);
-                            Button share =(Button) view1.findViewById(R.id.buttonshare);
-                            final Travel dt = new Travel();
-                            String url = response.getString("img");
-                            if(url.isEmpty()){
-                                url = "http://www.agence-creation-sc.com/uploads/logo.png";
-                            }
-                            Picasso.with(context).load(url).placeholder(R.drawable.airplane)   // optional
-                                    .error(R.drawable.airplane)
-                                    .resize(400,400)
-                                    .into(networkImageView);
-
-                            final SpannableString plot = new SpannableString(Html.fromHtml(response.getString("resume").toString().replace("<br/>","\n")));
-                            //Linkify.addLinks(plot,Linkify.ALL);
-
-                            final String titre = response.getString("pays")+"\n"+response.getString("titre");
-
-                            // Toast.makeText(getActivity(),url,Toast.LENGTH_LONG).show();
-                            alerttitlte.setText(Html.fromHtml(titre));
-                            text.setText(plot);
-                            //  networkImageView.setImageUrl(url, getImageLoader());
-                            dialog.show();
-                            share.setOnClickListener(new View.OnClickListener() {
-                                @Override
-                                public void onClick(View v) {
-
-                                }
-                            });
-                            dialogButtonOK.setOnClickListener(new View.OnClickListener() {
-                                @Override
-                                public void onClick(View v) {
-                                    dialog.dismiss();
-                                }
-                            });
-                        } catch (JSONException e) {
-                            Log.e("JSON", e.getLocalizedMessage());
-                        }
-                    }
-                },
-                new Response.ErrorListener() {
-                    @Override
-                    public void onErrorResponse(VolleyError error) {
-                        // Log.e("DETAIL", error.getLocalizedMessage());
-                    }
-                });
-        getRequestQueue().add(jsonObjectRequest);
-    }
 
     public boolean isOnline() {
 

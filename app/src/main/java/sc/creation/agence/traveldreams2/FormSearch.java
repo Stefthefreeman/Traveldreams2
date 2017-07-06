@@ -32,11 +32,8 @@ import static android.R.attr.startYear;
 public class FormSearch extends Fragment {
 
     private TextView dtdepart;
-    private DatePickerDialog datePickerDialog;
-    Context context;
     private OnFragmentInteractionListener mListener;
-    private SimpleDateFormat dateFormatter;
-    Calendar myCalendar = Calendar.getInstance();
+
     public FormSearch() {
         // Required empty public constructor
     }
@@ -52,7 +49,7 @@ public class FormSearch extends Fragment {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        dateFormatter = new SimpleDateFormat("dd-MM-yyyy", Locale.FRANCE);
+
 
     }
 

@@ -1,410 +1,478 @@
 [
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_send.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\ic_menu_send.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_btn_toggle_holo_light.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_btn_toggle_holo_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\palmtree.png",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\palmtree.png"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_ratingbar_full_holo_light.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_ratingbar_full_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zanzibar.jpg",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\zanzibar.jpg"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_send.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\ic_menu_send.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_activated_background_holo_light.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_activated_background_holo_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loader.png",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\loader.png"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_ratingbar_full_empty_holo_light.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_ratingbar_full_empty_holo_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_camera.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title.png",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\title.png"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fond.jpg",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\fond.jpg"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\ff01d8ad7f975e8cba6bb5d5bfc8f14c1cd4a8b9\\output\\res\\drawable\\mr_ic_pause_dark.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\notification_bg.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_ratingbar_holo_light.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_ratingbar_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_manage.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\ic_menu_manage.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\4eb1af288b71ed528faa3b89843a94633b629942\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\4eb1af288b71ed528faa3b89843a94633b629942\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_ratingbar_holo_light.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_ratingbar_holo_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\e6dd63fe5a727915fd11f707c6164ef029edb91b\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_gallery.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_edit_text_holo_light.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_edit_text_holo_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\22dd685f71c11239adf6a80cfcc3326afc5cc239\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_manage.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\ic_menu_manage.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\1450f154130af9635db8c7c94b216ad511eb876b\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\shape.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\e6dd63fe5a727915fd11f707c6164ef029edb91b\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_stat_share.png",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\ic_action_stat_share.png"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fond.jpg",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\fond.jpg"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\googleplus.png",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\googleplus.png"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progress_horizontal_holo_light.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_progress_horizontal_holo_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\e6dd63fe5a727915fd11f707c6164ef029edb91b\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_btn_radio_holo_light.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_btn_radio_holo_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_tab_indicator_holo.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_tab_indicator_holo.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_tab_indicator_holo.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_tab_indicator_holo.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_switch_track_holo_light.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_switch_track_holo_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\e6dd63fe5a727915fd11f707c6164ef029edb91b\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\22dd685f71c11239adf6a80cfcc3326afc5cc239\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progress_indeterminate_horizontal_holo_light.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_progress_indeterminate_horizontal_holo_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\22dd685f71c11239adf6a80cfcc3326afc5cc239\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\e6dd63fe5a727915fd11f707c6164ef029edb91b\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logotraveldreamsload.png",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\logotraveldreamsload.png"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_gallery.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_scrubber_progress_horizontal_holo_light.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_scrubber_progress_horizontal_holo_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_share.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\ic_menu_share.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\divider.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\divider.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\atrone.png",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\atrone.png"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_fastscroll_thumb_holo.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_fastscroll_thumb_holo.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_releases_black_24dp.png",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\ic_new_releases_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\e6dd63fe5a727915fd11f707c6164ef029edb91b\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\palmtree.png",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\palmtree.png"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\ff01d8ad7f975e8cba6bb5d5bfc8f14c1cd4a8b9\\output\\res\\drawable\\mr_ic_play_dark.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_scrubber_control_selector_holo_light.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_scrubber_control_selector_holo_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plane.png",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\plane.png"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_stat_reply.png",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\ic_action_stat_reply.png"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_ratingbar_full_filled_holo_light.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_ratingbar_full_filled_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_ratingbar_small_holo_light.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_ratingbar_small_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_edit_text_holo_light.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_edit_text_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\22dd685f71c11239adf6a80cfcc3326afc5cc239\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_stat_share.png",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\ic_action_stat_share.png"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\airplane.png",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\airplane.png"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\ff01d8ad7f975e8cba6bb5d5bfc8f14c1cd4a8b9\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\5353110aaabd7970bf9f60c772d632b0aabc95f3\\output\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\e6dd63fe5a727915fd11f707c6164ef029edb91b\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_vector_test.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title.png",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\title.png"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_camera.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\22dd685f71c11239adf6a80cfcc3326afc5cc239\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\back.png"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_switch_inner_holo_light.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_switch_inner_holo_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\e6dd63fe5a727915fd11f707c6164ef029edb91b\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\e6dd63fe5a727915fd11f707c6164ef029edb91b\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\traveldreams1.png",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\traveldreams1.png"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_ratingbar_full_empty_holo_light.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_ratingbar_full_empty_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_stat_new_message.png",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\ic_stat_new_message.png"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\back.png"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter.png",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\twitter.png"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\5353110aaabd7970bf9f60c772d632b0aabc95f3\\output\\res\\drawable\\design_fab_background.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\ff01d8ad7f975e8cba6bb5d5bfc8f14c1cd4a8b9\\output\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_item_background_holo_light.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_item_background_holo_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\euro.png",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\euro.png"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\ff01d8ad7f975e8cba6bb5d5bfc8f14c1cd4a8b9\\output\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_item_background_holo_light.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_item_background_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\22dd685f71c11239adf6a80cfcc3326afc5cc239\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_btn_toggle_holo_light.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_btn_toggle_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_slideshow.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\notification_icon_background.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\ff01d8ad7f975e8cba6bb5d5bfc8f14c1cd4a8b9\\output\\res\\drawable\\mr_ic_settings_light.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\5353110aaabd7970bf9f60c772d632b0aabc95f3\\output\\res\\drawable\\navigation_empty_icon.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook.png",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\facebook.png"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_list_selector_holo_light.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_list_selector_holo_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_btn_default_holo_light.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_btn_default_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_btn_default_holo_light.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_btn_default_holo_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\euro.png",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\euro.png"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\palmtreemin.png",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\palmtreemin.png"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\ff01d8ad7f975e8cba6bb5d5bfc8f14c1cd4a8b9\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_ratingbar_full_holo_light.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_ratingbar_full_holo_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\atrone.png",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\atrone.png"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\4eb1af288b71ed528faa3b89843a94633b629942\\output\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\22dd685f71c11239adf6a80cfcc3326afc5cc239\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_animation.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\progress_animation.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\traveldreams1.png",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\traveldreams1.png"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\e6dd63fe5a727915fd11f707c6164ef029edb91b\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_corner_bg.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\2a94e2bd4db18f11caa7a2a8648093be5539fb75\\output\\res\\drawable\\indicator_corner_bg.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_stat_reply.png",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\ic_action_stat_reply.png"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\notification_bg_low.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progress_horizontal_holo_light.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_progress_horizontal_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\22dd685f71c11239adf6a80cfcc3326afc5cc239\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\airplane.png",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\airplane.png"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\22dd685f71c11239adf6a80cfcc3326afc5cc239\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\e6dd63fe5a727915fd11f707c6164ef029edb91b\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_fastscroll_thumb_holo.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_fastscroll_thumb_holo.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_share.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\ic_menu_share.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_ratingbar_full_filled_holo_light.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_ratingbar_full_filled_holo_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\22dd685f71c11239adf6a80cfcc3326afc5cc239\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_switch_inner_holo_light.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_switch_inner_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\ff01d8ad7f975e8cba6bb5d5bfc8f14c1cd4a8b9\\output\\res\\drawable\\mr_ic_play_light.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plane.png",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\plane.png"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_scrubber_control_selector_holo_light.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_scrubber_control_selector_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_releases_black_24dp.png",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\ic_new_releases_black_24dp.png"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yellow_gradient.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\yellow_gradient.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\22dd685f71c11239adf6a80cfcc3326afc5cc239\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\e6dd63fe5a727915fd11f707c6164ef029edb91b\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_btn_check_holo_light.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_btn_check_holo_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_scrubber_progress_horizontal_holo_light.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_scrubber_progress_horizontal_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\e6dd63fe5a727915fd11f707c6164ef029edb91b\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\e6dd63fe5a727915fd11f707c6164ef029edb91b\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\22dd685f71c11239adf6a80cfcc3326afc5cc239\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\shape.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\22dd685f71c11239adf6a80cfcc3326afc5cc239\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\ff01d8ad7f975e8cba6bb5d5bfc8f14c1cd4a8b9\\output\\res\\drawable\\mr_ic_settings_dark.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\22dd685f71c11239adf6a80cfcc3326afc5cc239\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_slideshow.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_ratingbar_small_holo_light.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_ratingbar_small_holo_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_spinner_background_holo_light.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_spinner_background_holo_light.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_corner_bg.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\95ffa776fdab81a23aef5c9ff2219dec2877e3be\\output\\res\\drawable\\indicator_corner_bg.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\stefc\\.android\\build-cache\\6136b32119f808cad9f16aaf6c5cac5e9467d1d4\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yellow_gradient.xml",
-        "source": "C:\\Users\\stefc\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\yellow_gradient.xml"
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zanzibar.jpg",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\zanzibar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_btn_radio_holo_light.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_btn_radio_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_btn_check_holo_light.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_btn_check_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\palmtreemin.png",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\palmtreemin.png"
+    },
+    {
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_stat_new_message.png",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\ic_stat_new_message.png"
+    },
+    {
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\ff01d8ad7f975e8cba6bb5d5bfc8f14c1cd4a8b9\\output\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progress_indeterminate_horizontal_holo_light.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_progress_indeterminate_horizontal_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_switch_track_holo_light.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_switch_track_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_spinner_background_holo_light.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_spinner_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logotraveldreamsload.png",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\logotraveldreamsload.png"
+    },
+    {
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_activated_background_holo_light.xml",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable\\custom_activated_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Stef\\.android\\build-cache\\c89d6b27e29dfbff7b46361b1c89200695e1f79d\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     }
 ]

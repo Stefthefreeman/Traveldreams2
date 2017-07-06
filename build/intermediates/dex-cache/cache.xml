@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\stefc\AndroidStudioProjects\Traveldreams2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Stef\AndroidStudioProjects\Traveldreams2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9ba35d59e802d4acd663ebf914217ca9615d820">
+        <dex dex="C:\Users\Stef\AndroidStudioProjects\Traveldreams2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ab2dfd8d1dcf6c53c64dc9525039a71255f9206e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Stef\AndroidStudioProjects\Traveldreams2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\Users\stefc\AndroidStudioProjects\Traveldreams2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_968ec2390042f7afca0b926d1709f5575a80f9b2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\stefc\AndroidStudioProjects\Traveldreams2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e235b7d72e2aa2d995df53dc459f7516a514522b">
-        <dex dex="C:\Users\stefc\AndroidStudioProjects\Traveldreams2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_053aac2aefab0ff54bf870e29b392ece6c2cbf6f\classes.dex" />
+        <dex dex="C:\Users\Stef\AndroidStudioProjects\Traveldreams2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_228f1a3579edd41969cfcea457a8e5a598d50e44\classes.dex" />
     </item>
 
 </items>

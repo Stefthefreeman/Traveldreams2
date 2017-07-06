@@ -16,8 +16,26 @@ public class Travel {
     public String url;
     public String type;
     public String travelid;
+    public String urltoshare;
+    public String arrivee;
 
     public String edittime;
+
+    public String getUrltoshare() {
+        return urltoshare;
+    }
+
+    public void setUrltoshare(String urltoshare) {
+        this.urltoshare = urltoshare;
+    }
+
+    public String getArrivee() {
+        return arrivee;
+    }
+
+    public void setArrivee(String arrivee) {
+        this.arrivee = arrivee;
+    }
 
     public String getUrl() {
         return url;
