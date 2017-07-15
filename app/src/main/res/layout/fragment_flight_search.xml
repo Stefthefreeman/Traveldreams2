@@ -4,32 +4,9 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <FrameLayout
-        android:id="@+id/fragment_place"
+
+    <WebView
+        android:id="@+id/flights_searching"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:background="#CC505050" >
-
-        <TextView
-            android:id="@+id/textView2"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="10dp"
-            android:padding="5dp"
-            android:text="DEPART"
-            android:textColor="@android:color/white"
-            android:textSize="24sp"
-            android:textStyle="bold" />
-
-        <EditText
-            android:id="@+id/departure"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:layout_marginTop="50dp"
-            android:ems="10"
-            android:inputType="textPersonName" />
-    </FrameLayout>
-
+        android:layout_height="match_parent" />
 </RelativeLayout>

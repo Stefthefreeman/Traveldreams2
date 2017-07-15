@@ -86,7 +86,7 @@ public class Promos extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_stream, null);
-        ((AppCompatActivity)getActivity()).getSupportActionBar().setTitle("Recherche en cours...");
+       // ((AppCompatActivity)getActivity()).getSupportActionBar().setTitle("Recherche en cours...");
         cm = (ConnectivityManager)
                 getActivity().getSystemService(Context.CONNECTIVITY_SERVICE);
         MobileAds.initialize(getActivity(), "ca-app-pub-8155783804263949");
@@ -127,7 +127,7 @@ public class Promos extends Fragment {
             try {
 
                 frameLayout.setVisibility(GONE);
-                ((AppCompatActivity)getActivity()).getSupportActionBar().setTitle("EN PROMO !");
+               // ((AppCompatActivity)getActivity()).getSupportActionBar().setTitle("EN PROMO !");
                 JSONArray jsonArray = response.getJSONArray("promos");
 
                 ArrayList<Travel> travel = new ArrayList<Travel>();
@@ -152,8 +152,6 @@ public class Promos extends Fragment {
                 adapterTravelView.setTravelList(travel);
                 stream.setAdapter(adapterTravelView);
 
-                //  streamreader.setDivider(new ColorDrawable(0xAAFFCC00));   //0xAARRGGBB
-                //  streamreader.setDividerHeight(1);
             } catch (JSONException e) {
                 Log.e("JSON", e.getLocalizedMessage());
             }
@@ -168,16 +166,6 @@ public class Promos extends Fragment {
         }
     };
 
-   /* public static class Travel  {
-        public String title ;
-        public String name ;
-        public String idstream;
-        public String pays;
-        public String price;
-
-        public String edittime;
-
-    }*/
 
     RequestQueue requestQueue;
     RequestQueue getRequestQueue() {
@@ -228,9 +216,9 @@ public class Promos extends Fragment {
     public void onPause() {
         Log.e("DEBUG", "OnPause of loginFragment");
         super.onPause();
-    /*    if (requestQueue  != null) {
-            requestQueue.cancelAll(this);
-        }*/
+       if (requestQueue  != null) {
+         //   requestQueue.cancelAll(this);
+        }
     }
 
 

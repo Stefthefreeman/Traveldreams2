@@ -1,18 +1,55 @@
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:elevation="1dp"
+    android:elevation="0dp"
+    android:gravity="center_vertical|center_horizontal"
+    android:orientation="vertical"
     tools:context="sc.creation.agence.traveldreams2.FormSearch">
 
     <!-- TODO: Update blank fragment layout -->
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/research"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:elevation="1dp"
+        android:visibility="gone" />
+
+    <FrameLayout
+        android:id="@+id/progressBarHolder2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="false"
+        android:layout_alignWithParentIfMissing="false"
+        android:layout_centerHorizontal="false"
+        android:alpha="0.4"
+        android:animateLayoutChanges="true"
+        android:background="#000000"
+        android:visibility="gone" />
+
+    <ProgressBar
+        android:id="@+id/pgsearch"
+        style="?android:attr/progressBarStyleLargeInverse"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:indeterminate="true"
+        android:indeterminateDrawable="@drawable/progress_animation"
+        android:visibility="gone" />
 
     <LinearLayout
         android:id="@+id/one"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="15dp"
+        android:layout_centerHorizontal="false"
+        android:layout_centerVertical="false"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="100dp"
         android:background="@drawable/search_form_shape"
         android:orientation="vertical"
         android:padding="10dp">
@@ -32,7 +69,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:gravity="center_vertical|center"
-                android:text="Destination :"
+                android:text="@string/destination"
                 android:textSize="18sp" />
 
             <AutoCompleteTextView
@@ -41,9 +78,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:ems="@android:integer/config_longAnimTime"
                 android:fadingEdge="horizontal"
-                android:fadingEdgeLength="5dp" />
+                android:fadingEdgeLength="5dp"
+                tools:ignore="LabelFor" />
         </LinearLayout>
 
         <LinearLayout
@@ -51,6 +88,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
+            android:baselineAligned="false"
             android:orientation="horizontal">
 
             <LinearLayout
@@ -65,17 +103,19 @@
                     android:layout_height="34dp"
                     android:gravity="bottom"
                     android:text="Date départ "
-                    android:textSize="14sp" />
+                    android:textSize="14sp"
+                    tools:ignore="HardcodedText" />
 
                 <TextView
                     android:id="@+id/dtdepart"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
+                    android:layout_height="0dp"
                     android:layout_weight="1"
                     android:background="@drawable/shape"
                     android:drawableLeft="@android:drawable/ic_menu_my_calendar"
                     android:gravity="center_vertical|center_horizontal"
-                    android:textSize="14sp" />
+                    android:textSize="14sp"
+                    tools:ignore="NestedWeights,RtlHardcoded" />
 
 
             </LinearLayout>
@@ -85,7 +125,8 @@
                 android:layout_height="match_parent"
                 android:layout_marginLeft="5dp"
                 android:layout_weight="1"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                tools:ignore="RtlHardcoded">
 
                 <TextView
                     android:id="@+id/textView5"
@@ -94,15 +135,16 @@
 
                     android:fontFamily="sans-serif"
                     android:gravity="bottom"
-                    android:text="Type"
+                    android:text="@string/type"
                     android:textSize="14sp" />
 
                 <Spinner
                     android:id="@+id/spinner"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
+                    android:layout_height="0dp"
                     android:layout_weight="1.55"
-                    android:background="@drawable/shape" />
+                    android:background="@drawable/shape"
+                    tools:ignore="NestedWeights" />
             </LinearLayout>
 
         </LinearLayout>
@@ -119,22 +161,23 @@
                 android:layout_width="150dp"
                 android:layout_height="50dp"
                 android:layout_weight="1"
-                app:srcCompat="@drawable/logotraveldreamsload" />
+                android:contentDescription=""
+                app:srcCompat="@drawable/logotraveldreamsload"
+                tools:ignore="ContentDescription" />
 
             <Button
-                android:id="@+id/button2"
+                android:id="@+id/searching"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:background="@android:color/holo_orange_dark"
-                android:drawableEnd="@drawable/palmtreemin"
-                android:drawableLeft="@drawable/palmtreemin"
-                android:text="GO"
+                android:background="?android:attr/colorAccent"
+                android:text="@string/go"
                 android:textColor="@android:color/white"
                 android:textSize="24sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                tools:ignore="RtlHardcoded" />
         </LinearLayout>
 
     </LinearLayout>
 
-</FrameLayout>
+</RelativeLayout>

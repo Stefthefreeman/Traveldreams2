@@ -24,7 +24,7 @@ public class ShowOffer extends AppCompatActivity {
         showpartner();
     }
     public void showpartner(){
-        final ProgressDialog dialog = ProgressDialog.show(this, "", "Chargement en cours", true);
+        final ProgressDialog dialog = ProgressDialog.show(this, "", "Chargement en cours,patientez SVP", true);
         dialog.setCanceledOnTouchOutside(true);
         ww2 .getSettings().setJavaScriptEnabled(true);
         ww2 .getSettings().setLoadWithOverviewMode(true);
