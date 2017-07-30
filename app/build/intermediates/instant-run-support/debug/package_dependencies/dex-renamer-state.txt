@@ -1,4 +1,4 @@
-#Fri Jul 07 08:57:11 CEST 2017
+#Thu Jul 27 09:07:31 CEST 2017
 file.9=C\:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f827738a1a35f6b83baeb9732de02869eaf347d2\\classes.dex
 base.10=C\:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.3.1_e5f8596b76fcb49760ce9559cc34012b957a6707
 file.8=C\:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_42679aeedaf3c236b0bf6e782fd7f13456fe05cc\\classes.dex

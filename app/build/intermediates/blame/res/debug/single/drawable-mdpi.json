@@ -8,12 +8,12 @@
         "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable-mdpi\\custom_progressbar_indeterminate_holo4.png"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\custom_btn_default_disabled_focused_holo_light.9.png",
-        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable-mdpi\\custom_btn_default_disabled_focused_holo_light.9.png"
-    },
-    {
         "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\custom_btn_rating_star_off_normal_holo_light.png",
         "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable-mdpi\\custom_btn_rating_star_off_normal_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\custom_btn_default_disabled_focused_holo_light.9.png",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable-mdpi\\custom_btn_default_disabled_focused_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\custom_list_pressed_holo_light.9.png",
@@ -128,12 +128,12 @@
         "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable-mdpi\\custom_tab_unselected_focused_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\custom_progressbar_indeterminate_holo7.png",
-        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable-mdpi\\custom_progressbar_indeterminate_holo7.png"
-    },
-    {
         "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\custom_rate_star_small_on_holo_light.png",
         "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable-mdpi\\custom_rate_star_small_on_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\custom_progressbar_indeterminate_holo7.png",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable-mdpi\\custom_progressbar_indeterminate_holo7.png"
     },
     {
         "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\custom_btn_radio_on_pressed_holo_light.png",
@@ -188,12 +188,12 @@
         "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable-mdpi\\custom_switch_bg_disabled_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\custom_progress_secondary_holo_light.9.png",
-        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable-mdpi\\custom_progress_secondary_holo_light.9.png"
-    },
-    {
         "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\custom_scrubber_track_holo_light.9.png",
         "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable-mdpi\\custom_scrubber_track_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\custom_progress_secondary_holo_light.9.png",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable-mdpi\\custom_progress_secondary_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\custom_textfield_focused_holo_light.9.png",
@@ -216,12 +216,12 @@
         "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable-mdpi\\custom_scrubber_control_focused_holo.png"
     },
     {
-        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\custom_btn_rating_star_on_pressed_holo_light.png",
-        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable-mdpi\\custom_btn_rating_star_on_pressed_holo_light.png"
-    },
-    {
         "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\custom_btn_radio_on_focused_holo_light.png",
         "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable-mdpi\\custom_btn_radio_on_focused_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\custom_btn_rating_star_on_pressed_holo_light.png",
+        "source": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\src\\main\\res\\drawable-mdpi\\custom_btn_rating_star_on_pressed_holo_light.png"
     },
     {
         "merged": "C:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\custom_text_select_handle_middle.png",

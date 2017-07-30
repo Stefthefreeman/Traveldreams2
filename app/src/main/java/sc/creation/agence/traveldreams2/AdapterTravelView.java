@@ -1,38 +1,34 @@
 package sc.creation.agence.traveldreams2;
 
-import android.content.ComponentName;
+
 import android.content.Context;
 import android.content.Intent;
 import android.content.pm.ResolveInfo;
 import android.net.Uri;
 import android.support.v4.view.ViewCompat;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.animation.Animation;
 import android.view.animation.ScaleAnimation;
-import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.RatingBar;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.ImageLoader;
-import com.android.volley.toolbox.NetworkImageView;
 import com.squareup.picasso.Picasso;
-import com.google.android.gms.ads.AdRequest;
-import com.google.android.gms.ads.AdView;
-import com.google.android.gms.ads.MobileAds;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
-
-import static android.R.id.content;
-import static android.app.Activity.RESULT_CANCELED;
-import static android.app.Activity.RESULT_OK;
+import com.google.android.gms.ads.AdListener;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.InterstitialAd;
+import com.google.android.gms.ads.MobileAds;
 
 /**
  * Created by Stef on 02/07/2017.
@@ -45,7 +41,7 @@ public class AdapterTravelView extends RecyclerView.Adapter<AdapterTravelView.Vi
     private ArrayList<Travel>  travels= new ArrayList<>();
     private VolleySingleton volleySingleton;
     private ImageLoader imageLoader;
-
+    private InterstitialAd mInterstitialAd;
 
     public AdapterTravelView(Context context){
 
@@ -75,12 +71,15 @@ public class AdapterTravelView extends RecyclerView.Adapter<AdapterTravelView.Vi
        // holder.duree.setText(currentposition.getType());
         holder.price.setText(currentposition.getPrice());
         holder.rest.setText(currentposition.getPays());
-        holder.arrival.setText(currentposition.getArrivee());
+        holder.arrival.setText(currentposition.getArrivee().replace("&eacute;","é").replace("&ocirc;","ô").replace("&icirc;","î").replace("&agrave;","à"));
         final String urlphoto = currentposition.getUrl();
         holder.type.setText(currentposition.getTitle());
-       final Context context = holder.imageView.getContext();
+        final Context context = holder.imageView.getContext();
         setAnimation(holder.price,position);
-
+        mInterstitialAd = new InterstitialAd(context);
+        MobileAds.initialize(context, "ca-app-pub-8155783804263949/3902597904");
+        mInterstitialAd.setAdUnitId("ca-app-pub-8155783804263949/3902597904");
+        mInterstitialAd.loadAd(new AdRequest.Builder().build());
         int min = 3;
         int max = 5;
 
@@ -90,6 +89,12 @@ public class AdapterTravelView extends RecyclerView.Adapter<AdapterTravelView.Vi
         holder.itemView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                if (mInterstitialAd.isLoaded()) {
+                    mInterstitialAd.show();
+                } else {
+                    Log.d("TAG", "The interstitial wasn't loaded yet.");
+                }
+
                 Intent intent = new Intent(v.getContext(),Showdetails.class);
                 intent.putExtra("id",currentposition.getTravelid());
                 v.getContext().startActivity(intent);
@@ -231,5 +236,13 @@ public class AdapterTravelView extends RecyclerView.Adapter<AdapterTravelView.Vi
         ViewCompat.setTranslationY(holder.itemView, y);
     }
 
+    private void showInterstitial() {
+        // Show the ad if it's ready. Otherwise toast and restart the game.
+        if (mInterstitialAd != null && mInterstitialAd.isLoaded()) {
+            mInterstitialAd.show();
+        } else {
+            //Toast.makeText(, "Ad did not load", Toast.LENGTH_SHORT).show();
 
+        }
+    }
 }

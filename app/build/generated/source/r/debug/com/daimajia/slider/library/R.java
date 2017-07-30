@@ -415,7 +415,7 @@ public final class R {
         public static final int abc_textfield_search_activated_mtrl_alpha = 0x7f02004f;
         public static final int abc_textfield_search_default_mtrl_alpha = 0x7f020050;
         public static final int abc_textfield_search_material = 0x7f020051;
-        public static final int indicator_corner_bg = 0x7f0200fb;
+        public static final int indicator_corner_bg = 0x7f0200fc;
     }
     public static final class id {
         public static final int Accordion = 0x7f0d0051;
@@ -459,15 +459,15 @@ public final class R {
         public static final int customPanel = 0x7f0d0076;
         public static final int daimajia_indicator_wrapper = 0x7f0d00d3;
         public static final int daimajia_slider_image = 0x7f0d00ee;
-        public static final int daimajia_slider_viewpager = 0x7f0d00f9;
+        public static final int daimajia_slider_viewpager = 0x7f0d00fc;
         public static final int decor_content_parent = 0x7f0d0084;
         public static final int default_activity_button = 0x7f0d0069;
-        public static final int default_bottom_left_indicator = 0x7f0d00fc;
-        public static final int default_bottom_right_indicator = 0x7f0d00fb;
-        public static final int default_center_bottom_indicator = 0x7f0d00fa;
-        public static final int default_center_top_indicator = 0x7f0d00fd;
-        public static final int default_center_top_left_indicator = 0x7f0d00ff;
-        public static final int default_center_top_right_indicator = 0x7f0d00fe;
+        public static final int default_bottom_left_indicator = 0x7f0d00ff;
+        public static final int default_bottom_right_indicator = 0x7f0d00fe;
+        public static final int default_center_bottom_indicator = 0x7f0d00fd;
+        public static final int default_center_top_indicator = 0x7f0d0100;
+        public static final int default_center_top_left_indicator = 0x7f0d0102;
+        public static final int default_center_top_right_indicator = 0x7f0d0101;
         public static final int description = 0x7f0d00f1;
         public static final int description_layout = 0x7f0d00f0;
         public static final int disableHome = 0x7f0d001b;

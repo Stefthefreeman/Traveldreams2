@@ -70,6 +70,9 @@ public class FlightSearch extends Fragment {
         final ProgressDialog dialog = ProgressDialog.show(getActivity(), "", "Chargement en cours...", true);
         dialog.setCanceledOnTouchOutside(true);
         flightsearch  .getSettings().setJavaScriptEnabled(true);
+        flightsearch.getSettings().setJavaScriptCanOpenWindowsAutomatically(true);
+        flightsearch.getSettings().setDomStorageEnabled(true);
+        flightsearch.getSettings().setAppCacheEnabled(true);
         flightsearch  .getSettings().setLoadWithOverviewMode(true);
         flightsearch  .getSettings().setUseWideViewPort(true);
         flightsearch  .getSettings().setBuiltInZoomControls(true);

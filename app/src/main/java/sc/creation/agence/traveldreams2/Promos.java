@@ -1,50 +1,36 @@
 package sc.creation.agence.traveldreams2;
 
 
-import android.app.Dialog;
 import android.content.Context;
-import android.content.Intent;
-import android.graphics.Bitmap;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
-import android.support.v4.util.LruCache;
-import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.DividerItemDecoration;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.text.Html;
 import android.text.SpannableString;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ArrayAdapter;
-import android.widget.Button;
 import android.widget.FrameLayout;
-import android.widget.ImageView;
-import android.widget.ListView;
-import android.widget.ProgressBar;
 import android.widget.TextView;
-import android.widget.Toast;
-
 import com.android.volley.Request;
 import com.android.volley.RequestQueue;
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
-import com.android.volley.toolbox.ImageLoader;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
 import com.google.android.gms.ads.MobileAds;
-import com.squareup.picasso.Picasso;
-
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
-
 import java.util.ArrayList;
-import java.util.List;
+import com.google.android.gms.ads.AdListener;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.InterstitialAd;
+import com.google.android.gms.ads.MobileAds;
 
 import static android.view.View.GONE;
 import static android.view.View.VISIBLE;
@@ -60,9 +46,8 @@ public class Promos extends Fragment {
     private RecyclerView stream;
     private ConnectivityManager cm;
     private FrameLayout frameLayout;
-    private TextView loadermsg;
     private AdapterTravelView adapterTravelView;
-
+    private InterstitialAd mInterstitialAd;
 
     public Promos() {
         // Required empty public constructor
@@ -89,20 +74,16 @@ public class Promos extends Fragment {
        // ((AppCompatActivity)getActivity()).getSupportActionBar().setTitle("Recherche en cours...");
         cm = (ConnectivityManager)
                 getActivity().getSystemService(Context.CONNECTIVITY_SERVICE);
-        MobileAds.initialize(getActivity(), "ca-app-pub-8155783804263949");
-       // progressBar = (ProgressBar)view.findViewById(R.id.progressBar);
+
         stream = (RecyclerView) view.findViewById(R.id.streamlist);
         frameLayout = (FrameLayout)view.findViewById(R.id.progressBarHolder);
-        loadermsg = (TextView)view.findViewById(R.id.load) ;
         frameLayout.setVisibility(VISIBLE);
-       // loadermsg.setVisibility(view.VISIBLE);
-       // loadermsg.setText("Recherche en cours, patientez SVP!");
         adapterTravelView =new AdapterTravelView(getActivity());
         LinearLayoutManager llm = new LinearLayoutManager(getActivity());
         stream.setLayoutManager(llm);
         //stream.addItemDecoration(new VerticalSpaceItemDecoration(VERTICAL_ITEM_SPACE));
         stream.addItemDecoration( new DividerItemDecoration(getActivity(), DividerItemDecoration.VERTICAL));
-
+        MobileAds.initialize(getActivity(), "ca-app-pub-3940256099942544~3347511713");
         return view;
     }
 

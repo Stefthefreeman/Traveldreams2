@@ -1,4 +1,4 @@
-#Sat Jul 15 18:58:16 CEST 2017
+#Sun Jul 30 19:39:18 CEST 2017
 base.0=C\:\\Users\\Stef\\AndroidStudioProjects\\Traveldreams2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ab2dfd8d1dcf6c53c64dc9525039a71255f9206e
 renamed.1=classes2.dex
 renamed.0=classes.dex

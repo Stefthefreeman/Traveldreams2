@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_height="match_parent"
-    android:layout_width="match_parent">
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:id="@+id/showdetails"
@@ -23,7 +23,7 @@
         android:id="@+id/country"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/colorPrimary"
+        android:background="@color/custom_color"
         android:gravity="center_horizontal"
         android:padding="10dp"
         android:textColor="#505050"
@@ -33,7 +33,39 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_below="@+id/deuz"
+        android:layout_marginTop="5dp"
+        android:background="@color/colorPrimary"
         android:orientation="horizontal">
+
+
+        <ImageButton
+            android:id="@+id/fb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/facebook" />
+
+        <ImageButton
+            android:id="@+id/tw"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/twitter" />
+
+        <ImageButton
+            android:id="@+id/googleplus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:visibility="gone"
+            app:srcCompat="@drawable/googleplus" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
 
         <TextView
             android:id="@+id/details"
@@ -53,10 +85,13 @@
             android:id="@+id/price"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_gravity="right"
+            android:layout_marginRight="5dp"
             android:layout_weight="1"
-            android:gravity="center_horizontal"
-            android:textColor="@color/colorAccent"
+            android:background="@android:color/black"
+            android:gravity="right"
+            android:padding="7dp"
+            android:textColor="@color/custom_color"
             android:textSize="24sp"
             android:textStyle="bold" />
     </LinearLayout>
@@ -81,8 +116,17 @@
             android:layout_weight="1"
             android:background="@color/colorPrimary"
             android:padding="5dp"
-            android:text="Fermer"
+            android:text="Retour"
             android:textColor="@android:color/white"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/save"
+            style="@style/Buttoncustom"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Sauvegarder"
             android:textStyle="bold" />
 
         <Button
